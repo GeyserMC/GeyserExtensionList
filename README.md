@@ -8,9 +8,13 @@ will update to some proper solution in the future, similar to https://github.com
 
 ### Currently working
 - EmoteCraft (used for the emotectaft mod): https://github.com/KosmX/geyser-emote-extension 
-- GeyserConnect: https://github.com/GeyserMC/GeyserConnect 
+  Download on their GitHub page via "releases" tab
+- GeyserConnect: https://github.com/GeyserMC/GeyserConnect
+  Download via Github release 
 - HideCommands: https://github.com/Redned235/HideCommands
+  Currently, self-building needed :/
 - MagicMenu: https://github.com/onebeastchris/MagicMenu
+  wil be available on GitHub in a few days
 
 ### To be updated / waiting on Geyser API changes
 - PickPack (not yet operational, PR in Geyser still open): https://github.com/onebeastchris/packs-extension/
