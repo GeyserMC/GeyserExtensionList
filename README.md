@@ -15,6 +15,8 @@ will update to some proper solution in the future, similar to https://github.com
   Currently, self-building needed :/
 - MagicMenu: https://github.com/onebeastchris/MagicMenu
   wil be available on GitHub in a few days
+- MCXboxBroadcast: https://github.com/rtm516/MCXboxBroadcast
+  available on the GitHub releases page
 
 ### To be updated / waiting on Geyser API changes
 - PickPack (not yet operational, PR in Geyser still open): https://github.com/onebeastchris/packs-extension/
