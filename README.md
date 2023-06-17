@@ -17,7 +17,8 @@ If you wish to add your Extension to this list, create a PR!
   Allows you to run custom commands with forms & quick accessing them with emotes.
 - **MCXboxBroadcast**: https://github.com/rtm516/MCXboxBroadcast <br>
   Creates & hosts a simple friend bot to connect to your Geyser server. Makes joining Geyser servers on consoles super easy!
+- **PickPack**: https://github.com/onebeastchris/pickpack/ <br>
+  Allows Bedrock players to choose & toggle their resource packs while playing on your server!
 
 ### To be updated / waiting on Geyser API changes
-- **PickPack** (not yet operational, PR in Geyser still open): https://github.com/onebeastchris/packs-extension/ <br>
 - **Slimefun** (not working atm): https://github.com/SofiaRedmond/Slimefun-Geyser <br>
