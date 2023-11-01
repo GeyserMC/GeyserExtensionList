@@ -19,6 +19,9 @@ If you wish to add your Extension to this list, create a PR!
   Creates & hosts a simple friend bot to connect to your Geyser server. Makes joining Geyser servers on consoles super easy!
 - **PickPack**: https://github.com/onebeastchris/pickpack/ <br>
   Allows Bedrock players to choose & toggle their resource packs while playing on your server!
+- **Spark**: https://github.com/geyserMC/spark <br>
+  A [Spark](https://spark.lucko.me/) implementation for Geyser-Standalone. Can be used to create performance profiles, heap dumps, and general health reporting.
+  Note; a download is not yet available so you would need to compile it yourself.
 
 ### To be updated / waiting on Geyser API changes
 - **Slimefun** (not working atm): https://github.com/SofiaRedmond/Slimefun-Geyser <br>
