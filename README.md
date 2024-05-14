@@ -24,7 +24,8 @@ If you wish to add your Extension to this list, create a PR!
 - **Spark**: https://github.com/GeyserMC/spark <br>
   A [Spark](https://spark.lucko.me/) implementation for Geyser-Standalone. Can be used to create performance profiles, heap dumps, and general health reporting.
   Note; a download is not yet available so you would need to compile it yourself.
+- **ThirdPartyCosmetics**: https://github.com/GeyserMC/ThirdPartyCosmetics <br>
+  Adds support for third-party capes and ears to Geyser.
 
 ### To be updated / waiting on Geyser API changes
 - **Slimefun** (not working atm): https://github.com/SofiaRedmond/Slimefun-Geyser <br>
-- **ThirdPartyCosmetics** (waiting on GeyserMC/Geyser#4507): https://github.com/GeyserMC/ThirdPartyCosmetics <br>
