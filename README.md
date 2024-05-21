@@ -7,8 +7,6 @@ Most of these Extensions can be downloaded on the respective GitHub pages, usual
 If you wish to add your Extension to this list, create a PR!
 
 ### Currently working
-- **EmoteCraft** (used for the emotecraft mod): https://github.com/KosmX/geyser-emote-extension <br>
-  Geyser-side companion for the emotecraft mod.
 - **EmoteMenu**: https://github.com/Carbuino/EmoteMenu <br>
   Creates a quick menu for easy access for Geyser features and command execution, even with Xbox Achievements turned on. 
 - **GeyserConnect**: https://github.com/GeyserMC/GeyserConnect <br>
@@ -29,3 +27,5 @@ If you wish to add your Extension to this list, create a PR!
 
 ### To be updated / waiting on Geyser API changes
 - **Slimefun** (not working atm): https://github.com/SofiaRedmond/Slimefun-Geyser <br>
+- **EmoteCraft** (used for the emotecraft mod): https://github.com/KosmX/geyser-emote-extension <br>
+  Geyser-side companion for the emotecraft mod.
