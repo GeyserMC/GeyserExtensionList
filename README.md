@@ -24,6 +24,8 @@ If you wish to add your Extension to this list, create a PR!
   Note; a download is not yet available so you would need to compile it yourself.
 - **ThirdPartyCosmetics**: https://github.com/GeyserMC/ThirdPartyCosmetics <br>
   Adds support for third-party capes and ears to Geyser.
+- **TransferTool** https://github.com/onebeastchris/TransferTool <br>
+  Allows you to configure Geyser servers to send a player to when Geyser receives a Java transfer packet.
 
 ### To be updated / waiting on Geyser API changes
 - **Slimefun** (not working atm): https://github.com/SofiaRedmond/Slimefun-Geyser <br>
