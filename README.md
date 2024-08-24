@@ -18,7 +18,7 @@ If you wish to add your Extension to this list, create a PR!
   there is no built-in permission manager. These include Fabric, Velocity, and BungeeCord. Also requires LuckPerms to be installed.
 - **MagicMenu**: https://github.com/onebeastchris/MagicMenu <br>
   Allows you to run custom commands with forms & quick accessing them with emotes.
-- **MCXboxBroadcast**: https://github.com/rtm516/MCXboxBroadcast <br>
+- **MCXboxBroadcast**: https://github.com/MCXboxBroadcast/Broadcaster <br>
   Creates & hosts a simple friend bot to connect to your Geyser server. Makes joining Geyser servers on consoles super easy!
 - **PickPack**: https://github.com/onebeastchris/pickpack/ <br>
   Allows Bedrock players to choose & toggle their resource packs while playing on your server!
