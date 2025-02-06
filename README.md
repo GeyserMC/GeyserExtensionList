@@ -13,6 +13,8 @@ If you wish to add your Extension to this list, create a PR!
   Allows you to host a GeyserConnect instance to connect to any java server, with or without Geyser. Like Geyser Standalone on steroids.
 - **HideCommands**: https://github.com/Redned235/HideCommands <br>
   Allows you to hide Java commands from Bedrock players.
+- **Jukebox Extended Reborn**: https://github.com/spartacus04/jext-reborn <br>
+  Level up your server with custom music discs. Allows JEXT to work with Geyser standalone.
 - **LuckLink**: https://github.com/onebeastchris/LuckLink <br>
   A [LuckPerms](https://github.com/LuckPerms/LuckPerms) integration that automatically registers permissions for Geyser and Geyser extensions on platforms where
   there is no built-in permission manager. These include Fabric, Velocity, and BungeeCord. Also requires LuckPerms to be installed.
