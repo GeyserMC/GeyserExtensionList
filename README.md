@@ -7,12 +7,12 @@ Most of these Extensions can be downloaded on the respective GitHub pages, usual
 If you wish to add your Extension to this list, create a PR!
 
 ### Currently working
-- **Jukebox Extended Reborn**: https://github.com/spartacus04/jext-reborn <br>
-  Level up your server with custom music discs. Allows JEXT to work with Geyser standalone.
 - **EmoteMenu**: https://github.com/Carbuino/EmoteMenu <br>
   Creates a quick menu for easy access for Geyser features and command execution, even with Xbox Achievements turned on. 
 - **GeyserConnect**: https://github.com/GeyserMC/GeyserConnect <br>
   Allows you to host a GeyserConnect instance to connect to any java server, with or without Geyser. Like Geyser Standalone on steroids.
+- **Jukebox Extended Reborn**: https://github.com/spartacus04/jext-reborn <br>
+  Level up your server with custom music discs. Allows JEXT to work with Geyser standalone.
 - **HideCommands**: https://github.com/Redned235/HideCommands <br>
   Allows you to hide Java commands from Bedrock players.
 - **LuckLink**: https://github.com/onebeastchris/LuckLink <br>
