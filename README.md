@@ -12,7 +12,7 @@ If you wish to add your Extension to this list, create a PR!
 - **GeyserConnect**: https://github.com/GeyserMC/GeyserConnect <br>
   Allows you to host a GeyserConnect instance to connect to any java server, with or without Geyser. Like Geyser Standalone on steroids.
 - **GeyserFloatingPoints**: https://github.com/Oryxel/GeyserFloatingPoints <br>
-  An extension that added a hacky workaround to fix floating-point precision at large distance (bedrock distance effect).
+  An extension that adds a hacky workaround to fix floating-point precision at large distances (bedrock distance effect).
 - **HideCommands**: https://github.com/Redned235/HideCommands <br>
   Allows you to hide Java commands from Bedrock players.
 - **Jukebox Extended Reborn**: https://github.com/spartacus04/jext-reborn <br>
