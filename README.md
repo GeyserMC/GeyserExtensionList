@@ -7,6 +7,8 @@ Most of these Extensions can be downloaded on the respective GitHub pages, usual
 If you wish to add your Extension to this list, create a PR!
 
 ### Currently working
+- **Boar**: https://github.com/oryxel1/Boar <br>
+  Allow servers to enable server-auth-with-rewind (anticheat system) like on BDS with some improvements.
 - **EmoteMenu**: https://github.com/Carbuino/EmoteMenu <br>
   Creates a quick menu for easy access for Geyser features and command execution, even with Xbox Achievements turned on. 
 - **GeyserConnect**: https://github.com/GeyserMC/GeyserConnect <br>
