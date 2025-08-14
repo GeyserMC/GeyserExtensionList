@@ -35,6 +35,8 @@ If you wish to add your Extension to this list, create a PR!
   Adds support for third-party capes and ears to Geyser.
 - **TransferTool** https://github.com/onebeastchris/TransferTool <br>
   Allows you to configure Geyser servers to send a player to when Geyser receives a Java transfer packet.
+- **Vane** https://github.com/0xSoul24/VaneGeyserExtension <br>
+  Enables Bedrock players to see and use custom textures for [Vane](https://github.com/oddlama/vane)'s immersive items when playing on servers running both Geyser and the Vane plugin suite.
 
 ### To be updated / waiting on Geyser API changes
 - **Slimefun** (not working atm): https://github.com/SofiaRedmond/Slimefun-Geyser <br>
