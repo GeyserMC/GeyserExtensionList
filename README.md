@@ -1,6 +1,10 @@
 # GeyserExtensionList
 A list of known Geyser Extensions!
 
+
+> [!IMPORTANT]  
+> Modrinth has added Geyser Extensions! This list will no longer be maintained.
+
 ### These extensions are not made by GeyserMC, and while designed to work with Geyser, not affiliated with Geyser. 
 
 Most of these Extensions can be downloaded on the respective GitHub pages, usually, from the releases tab.
